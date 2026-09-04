@@ -267,7 +267,9 @@ This laboratory is intended strictly for education purposes only.
 ## 👤 Author
 
 **Danjuma Yusuf Joseph (XorShield)**
-Cybersecurity Professional B082 
+
+Cybersecurity Professional `B082`
+
 LinkedIn: https://www.linkedin.com/in/xorshield/
 
 ## 📌 Project Information
