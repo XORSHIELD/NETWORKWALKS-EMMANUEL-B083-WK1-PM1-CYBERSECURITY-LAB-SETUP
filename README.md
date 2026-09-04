@@ -1,27 +1,12 @@
-# 🔒 Cybersecurity Lab Environment Setup
+# Cybersecurity Lab Environment Setup
 
 **Building an isolated virtual lab for penetration testing and ethical hacking practice**
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Skill-Cybersecurity-CC0000?style=flat-square" />
-  <img src="https://img.shields.io/badge/Ver-VirtualBox%20v7.2-000000?style=flat-square" />
-  <img src="https://img.shields.io/badge/🐉%20Kali%20Linux-CC0000?style=flat-square" />
-  <img src="https://img.shields.io/badge/v2026.2-FFC107?style=flat-square&labelColor=333333" />
-  <img src="https://img.shields.io/badge/Skill-Linux-CC0000?style=flat-square" />
-  <img src="https://img.shields.io/badge/Network-10.0.0.0%2F24-00BFA5?style=flat-square" />
-  <img src="https://img.shields.io/badge/Penetration%20Testing-CC0000?style=flat-square" />
-  <br/>
-  <img src="https://img.shields.io/badge/Skill-Virtualization-CC0000?style=flat-square" />
-  <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/🐉%20Kali%20Linux-CC0000?style=flat-square" />
-  <img src="https://img.shields.io/badge/XorShield-6c757d?style=flat-square" />
-  <img src="https://img.shields.io/badge/Ethical%20Hacking-FF6F00?style=flat-square" />
-  <img src="https://img.shields.io/badge/Danjuma%20Yusuf%20Joseph-CC0000?style=flat-square" />
-</p>
+<p align="left"> <img src="https://img.shields.io/badge/Skill-Cybersecurity-red?style=flat-square" /> <img src="https://img.shields.io/badge/Ver-VirtualBox%20v7.2-blue?style=flat-square" /> <img src="https://img.shields.io/badge/Kali%20Linux-black?style=flat-square&logo=kalilinux&logoColor=red" /> <img src="https://img.shields.io/badge/v2026.2-orange?style=flat-square" /> <img src="https://img.shields.io/badge/Skill-Linux-black?style=flat-square" /> <img src="https://img.shields.io/badge/Network-10.0.0.0%2F24-14B8A6?style=flat-square" /> <img src="https://img.shields.io/badge/Penetration%20Testing-red?style=flat-square" /> <br/> <img src="https://img.shields.io/badge/Skill-Virtualization-red?style=flat-square" /> <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Kali%20Linux-black?style=flat-square&logo=kalilinux&logoColor=red" /> <img src="https://img.shields.io/badge/XorShield-black?style=flat-square" /> <img src="https://img.shields.io/badge/Ethical%20Hacking-orange?style=flat-square" /> <img src="https://img.shields.io/badge/Danjuma%20Yusuf%20Joseph-red?style=flat-square" /> </p>
 
 ---
 
-## 🔒 Project Overview
+## Project Overview
 
 This project focuses on setting up a **virtual cybersecurity and penetration-testing laboratory** using VirtualBox and Kali Linux.
 
@@ -29,7 +14,7 @@ The purpose of the lab is to create a controlled environment where cybersecurity
 
 The lab is configured on a private virtual network so that additional machines can be added later and used as targets for authorized security testing.
 
-## 🎯 Objectives
+## Objectives
 
 The main objectives of this project are to:
 
@@ -43,7 +28,7 @@ The main objectives of this project are to:
 - Document the complete setup process.
 - Prepare the environment for future cybersecurity projects.
 
-## 🛡️ Purpose of the Lab
+## Purpose of the Lab
 
 The lab provides an isolated and controlled environment for cybersecurity learning and authorized security testing.
 
@@ -79,7 +64,7 @@ Additional target machines can be added to the same virtual network in future pr
 | 🌍 DNS Server | 8.8.8.8 |
 | 🐉 Future VM Range | 10.0.0.3–10.0.0.99 |
 
-## 📖 Lab Setup Procedure
+## Lab Setup Procedure
 
 ### Step 1. Install 7-Zip
 
@@ -164,7 +149,7 @@ The snapshot represents the clean baseline of the laboratory.
 
 If a future exercise changes or damages the VM configuration, the machine can be restored to this baseline.
 
-## 🔍 Lab Verification
+## Lab Verification
 
 | ✅ Test | 🖥️ Command | 🎯 Expected Result |
 |---|---|---|
@@ -187,7 +172,7 @@ DNS:
 8.8.8.8
 ```
 
-## 🐞 Problems Encountered & Solutions
+## Problems Encountered & Solutions
 
 Documenting problems is an important part of the project.
 
@@ -220,7 +205,7 @@ The issue was resolved by:
 
 After enabling virtualization, the VM started successfully.
 
-## 💡 What I Learned
+## What I Learned
 
 Through this project, I learned how to create and configure a virtual environment for cybersecurity practice.
 
@@ -252,7 +237,7 @@ This provides a known-good recovery point for future cybersecurity exercises.
 
 I learned that documenting commands, configuration, screenshots, problems, and solutions is an important part of a professional cybersecurity project.
 
-## 🔐 Security & Ethical Use
+## Security & Ethical Use
 
 This laboratory is intended strictly for education purposes only.
 
